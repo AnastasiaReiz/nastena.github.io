@@ -13,7 +13,7 @@
       <br/>
       <a href=https://github.com/AnastasiaReiz/nastena.github.io.git>GitHub</a>
       <br/>
-      Phone number: <b>+79060891014</b>
+      Phonenumber: <b>+79060891014</b>
       <br/>
       E-mail: <i>akreyzman@edu.hse.ru</i>
     </body>
