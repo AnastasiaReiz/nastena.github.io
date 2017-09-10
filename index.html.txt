@@ -6,7 +6,7 @@
     </head>
     <body> 
       <left><h1>Reizman Nastya</h1></left>
-      <left><img alt="Ýòî ÿ" width="15%" src="IMG_3629.jpg"></left>
+      <left><img alt=thatis me width="15%" src="me.jpg"></left>
       <br/>
       <h2>Контакты:</h2>
      Page <a href=https://vk.com//>id261565435</a>
